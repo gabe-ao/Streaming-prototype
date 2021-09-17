@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "The first-born.",
+      "id": 1
+    },
+    {
+      "title": "Another one bites the dust",
+      "description": "Music stream.",
+      "id": 2
+    },
+    {
+      "title": "One more time",
+      "description": "Persistence is key",
+      "userId": "101903103071353381608",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Web dev",
+      "userId": "101903103071353381608",
+      "id": 4
+    },
+    {
+      "title": "Refactoring Factories",
+      "description": "4 Industrial Revolution",
+      "userId": "101903103071353381608",
+      "id": 8
+    },
+    {
+      "title": "Agora sim",
+      "description": "Oh loko bicho",
+      "userId": "101903103071353381608",
+      "id": 9
+    }
+  ]
+}
